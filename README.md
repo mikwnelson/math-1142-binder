@@ -1,1 +1,1 @@
-# math-1142-binder
+# Math 1142 Binder
